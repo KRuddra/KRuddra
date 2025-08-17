@@ -16,6 +16,7 @@
 ## 🛠️ Tech Stack & Tools
 
 - **[Langauges]**
+
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -28,6 +29,7 @@
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?logo=racket&logoColor=white&style=for-the-badge)
 
 - **[Technologies]**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
@@ -36,6 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 - **[Frameworks & Libraries]**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
