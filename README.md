@@ -6,8 +6,8 @@
 
 ## 💡 What I’m Working On Currently
 
-- 🎮 **[BlueDot's Epidemiology Pipeline](https://github.com/srigan-s/MiniAIWebApp)** — Interning at BlueDot where I am creating a data pipeline for disease research! 
-- 🏥 **[Clarity](https://github.com/srigan-s/DaisyJourneyClient)** — Building an AI tool that removes all the complicated error messages directly from your console and simplifies them into one!
+- 🎮 **[BlueDot's Epidemiology Pipeline](https://github.com/KRuddra)** — Interning at BlueDot where I am creating a data pipeline for disease research! 
+- 🏥 **[Clarity](https://github.com/KRuddra/clarity)** — Building an AI tool that removes all the complicated error messages directly from your console and simplifies them into one!
 
 ---
 
