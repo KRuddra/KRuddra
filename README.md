@@ -4,18 +4,16 @@
 
 ---
 
-## 💡 What I’m Working On
+## 💡 What I’m Working On Currently
 
 - 🎮 **[BlueDot's Epidemiology Pipeline](https://github.com/srigan-s/MiniAIWebApp)** — Interning at BlueDot where I am creating a data pipeline for disease research! 
 - 🏥 **[Clarity](https://github.com/srigan-s/DaisyJourneyClient)** — Building an AI tool that removes all the complicated error messages directly from your console and simplifies them into one!
-- ⚙️ Building impact-driven apps that educate, empower, and connect
-- 🔍 Exploring AI, hardware, education tech, and beyond
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **[Langauges]**
+**[Langauges]**
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -28,7 +26,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?logo=racket&logoColor=white&style=for-the-badge)
 
-- **[Technologies]**
+**[Technologies]**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
@@ -37,7 +35,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-- **[Frameworks & Libraries]**
+**[Frameworks & Libraries]**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
